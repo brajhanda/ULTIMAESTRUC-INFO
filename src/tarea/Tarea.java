@@ -7,8 +7,7 @@ package tarea;
 import java.lang.Integer;
 
 /**
- *
- * @author ZARAT
+prueba43
  */
 public class Tarea {
     public String inToHex(int n)
